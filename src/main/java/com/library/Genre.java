@@ -10,5 +10,6 @@ public enum Genre {
     PROGRAMMING,
     DATABASE,
     FICTION,
-    MON_FICTION,EDUCATION
+    NON_FICTION,
+    EDUCATION
 }
